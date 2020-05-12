@@ -47,4 +47,5 @@ Bu araç yalnızca eğitim amacıyla yasal sınırlar çerçevesinde kullanılma
 
 # Lisans (License)
 Bu proje MIT Lisansı altında yayınlanmıştır - detayları görüntülemek için [LICENSE.md](LICENSE.md)
+
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
