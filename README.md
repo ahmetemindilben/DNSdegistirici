@@ -10,9 +10,8 @@ Aracın kurulumu ve kullanımı oldukça kolaydır.
 ## Kurulum
 ### 1. Otomatik Kurulum
 Aracı kurabilmek için internet bağlantısı olan herhangi bir linux sistemde aşağıdaki kodu terminale yazmanız yeterlidir. Kodu yazdıktan sonra kurulum ekranı sizi yönlendirecektir.
-
 ```
-sudo bash <(wget -qO- https://git.io/Jf8cu)
+bash <(wget -qO- https://git.io/Jf8cu)
 ```
 Kurulum tamamlandıktan sonra ```sudo dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
 
@@ -22,11 +21,10 @@ Kurulum tamamlandıktan sonra ```sudo dnsdegistir``` komutu ile aracı çalışt
 * 3. Kurulum ekranı sizi yönlendirecektir.
 * 4. Kurulum tamamlandıktan sonra ```sudo dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
 
-
 ## KULLANIM
 DNSdegistirici aracı ile DNS adresini değiştirmek için iki yöntem bulunmaktadır;
 
-### 1. Otomatik DNS Adresleri Kaydetme
+### 1. Rastgele DNS Adresleri Kaydetme
 Otomatik DNS adresleri kaydetme yöntemi ile aracın kodu içerisinde bulunan ücretsiz DNS adreslerinden herhangi üç tanesini sisteminize kayıt edebilirsiniz. 
 
 ### 2. Manuel DNS Adresleri Kaydetme
