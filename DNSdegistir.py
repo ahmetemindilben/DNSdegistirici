@@ -109,7 +109,7 @@ def giris():
 
 def rastgeleDNS():
 	ekranTemizle()
-	print(renk.kalin + renk.baslik + "Manuel DNS Adresi kayıt işlemi başlatılıyor.." + renk.normal)	
+	print(renk.kalin + renk.baslik + "Otomatik DNS Adresi kayıt işlemi başlatılıyor.." + renk.normal)	
 	print(renk.kalin + renk.dikkat + "DİKKAT: Bu işlemin gerçekleştirilebilmesi için root olmanız gerekmektedir." + renk.normal)
 	print(renk.onaylama + "NOT:" +renk.normal + renk.duzyesil + " DNS adresleri değiştirilirken ağ bağlantınız kesilecektir.")
 	print("İşlem tamamlandıktan sonra internete tekrardan bağlanmanız gerekebilir." + renk.normal)	
@@ -135,7 +135,7 @@ def rastgeleDNS():
 
 def manuelDNS():
 	ekranTemizle()
-	print(renk.kalin + renk.baslik + "Rastgele DNS Adresi kayıt işlemi başlatılıyor.." + renk.normal)	
+	print(renk.kalin + renk.baslik + "Manuel DNS Adresi kayıt işlemi başlatılıyor.." + renk.normal)	
 	print(renk.kalin + renk.dikkat + "DİKKAT: Bu işlemin gerçekleştirilebilmesi için root olmanız gerekmektedir." + renk.normal)
 	print(renk.onaylama + "NOT:" +renk.normal + renk.duzyesil + " DNS adresleri değiştirilirken ağ bağlantınız kesilecektir.")
 	print("İşlem tamamlandıktan sonra internete tekrardan bağlanmanız gerekebilir." + renk.normal)	
