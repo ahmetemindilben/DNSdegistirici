@@ -12,13 +12,13 @@ Aracı kurabilmek için internet bağlantısı olan herhangi bir linux sistemde 
 ```
 sudo bash <(wget -qO- https://git.io/Jf8cu)
 ```
-Kurulum tamamlandıktan sonra sudo ```dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
+Kurulum tamamlandıktan sonra ```sudo dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
 
 ### 2. Manuel Kurulum
 * 1. Manuel olarak kurulum yapabilmek için ilk olarak bu depodaki dosyaları sisteminize indirin.
 * 2. Dosyaları indirdiğiniz dizinde bir terminal açın ve bash install.sh komutu ile kurulum scriptini açın.
 * 3. Kurulum ekranı sizi yönlendirecektir.
-* 4. Kurulum tamamlandıktan sonra sudo ```dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
+* 4. Kurulum tamamlandıktan sonra ```sudo dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
 
 
 ## KULLANIM
