@@ -5,6 +5,8 @@ Linux sistemler için basit ve hızlı DNS değiştirme aracı
 DNSdegistirici /etc/resolv.conf dosyasını düzenleyerek Linux sistemlerde DNS adresini değiştiren basit bir araçtır. Sızma testi ve etik hackerlık uygulamaları yapmak isteyenlerin yaşadıkları DNS değiştirme işlemi sorunlarının önüne geçmek için yazılmıştır.
 Aracın kurulumu ve kullanımı oldukça kolaydır.
 
+![Arayüz Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetemindilben/DNSdegistirici/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/arayuz.png)
+
 ## Kurulum
 ### 1. Otomatik Kurulum
 Aracı kurabilmek için internet bağlantısı olan herhangi bir linux sistemde aşağıdaki kodu terminale yazmanız yeterlidir. Kodu yazdıktan sonra kurulum ekranı sizi yönlendirecektir.
