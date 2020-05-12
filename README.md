@@ -12,17 +12,26 @@ Aracı kurabilmek için internet bağlantısı olan herhangi bir linux sistemde 
 ```
 sudo bash <(wget -qO- https://git.io/Jf8cu)
 ```
+Kurulum tamamlandıktan sonra sudo ```dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
 
 ### 2. Manuel Kurulum
 * 1. Manuel olarak kurulum yapabilmek için ilk olarak bu depodaki dosyaları sisteminize indirin.
 * 2. Dosyaları indirdiğiniz dizinde bir terminal açın ve bash install.sh komutu ile kurulum scriptini açın.
 * 3. Kurulum ekranı sizi yönlendirecektir.
+* 4. Kurulum tamamlandıktan sonra sudo ```dnsdegistir``` komutu ile aracı çalıştırabilirsiniz.
+
 
 ## KULLANIM
 DNSdegistirici aracı ile DNS adresini değiştirmek için iki yöntem bulunmaktadır;
 
 ### 1. Otomatik DNS Adresleri Kaydetme
+Otomatik DNS adresleri kaydetme yöntemi ile aracın kodu içerisinde bulunan ücretsiz DNS adreslerinden herhangi üç tanesini sisteminize kayıt edebilirsiniz. 
 
+### 2. Manuel DNS Adresleri Kaydetme
+Manuel DNS adresleri kaydetme yöntemi ile kendi istediğiniz DNS adreslerini sisteme kayıt edebilirsiniz.
+
+# Sorumluluk Reddi Beyanı
+Bu araç yalnızca eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır. Aracın kullanımından kaynaklanabilecek her türlü durumda sorumluluk tarafınıza aittir.
 
 # Lisans (License)
 Bu proje MIT Lisansı altında yayınlanmıştır - detayları görüntülemek için [LICENSE.md](LICENSE.md)
