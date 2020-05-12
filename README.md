@@ -27,8 +27,12 @@ DNSdegistirici aracı ile DNS adresini değiştirmek için iki yöntem bulunmakt
 ### 1. Rastgele DNS Adresleri Kaydetme
 Otomatik DNS adresleri kaydetme yöntemi ile aracın kodu içerisinde bulunan ücretsiz DNS adreslerinden herhangi üç tanesini sisteminize kayıt edebilirsiniz. 
 
+![Rastgele DNS Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetemindilben/DNSdegistirici/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/otomatikDNS.png)
+
 ### 2. Manuel DNS Adresleri Kaydetme
 Manuel DNS adresleri kaydetme yöntemi ile kendi istediğiniz DNS adreslerini sisteme kayıt edebilirsiniz.
+
+![Rastgele DNS Ekran Görüntüsü](https://raw.githubusercontent.com/ahmetemindilben/DNSdegistirici/master/Ekran%20G%C3%B6r%C3%BCnt%C3%BCleri/manuelDNS.png)
 
 # Sorumluluk Reddi Beyanı
 Bu araç yalnızca eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır. Aracın kullanımından kaynaklanabilecek her türlü durumda sorumluluk tarafınıza aittir.
