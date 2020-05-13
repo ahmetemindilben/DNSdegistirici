@@ -107,6 +107,7 @@ echo ""
 echo -e $BLINK $KONTROL"Gerekli paketler indiriliyor.."$NORMAL
 echo ""
 sleep 1.5
+apt-get install git -y
 apt-get install python2.7 -y
 git clone https://github.com/ahmetemindilben/DNSdegistirici.git "$KURULUM_DIZINI"
 echo "#!/bin/bash
