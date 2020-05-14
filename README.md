@@ -38,9 +38,10 @@ Manuel DNS adresleri kaydetme yöntemi ile kendi istediğiniz DNS adreslerini si
 
 DNSdegistirici aracı birçok Linux sistemine uygun olmakla beraber bazı durumlarda belirli sistemlerde hatalar verebilir. Herhangi bir hatayla karşılaşmanız durumunda hata@ahmetemindilben.com.tr mail adresine mail atabilirsiniz.</p>
 
-• Kali Linux 2019.4 ve öncesi:</strong> Araç sorunsuz çalışmaktadır.
-• Kali Linux 2020.1 ve sonrası:</strong> Araç sorunsuz çalışmaktadır. 
-• Ubuntu: Araç geliştirme çalışmaları devam etmektedir.
+- Kali Linux 2019.4 ve öncesi:</strong> Araç sorunsuz çalışmaktadır.
+- Kali Linux 2020.1 ve sonrası:</strong> Araç sorunsuz çalışmaktadır. 
+- Ubuntu: Araç geliştirme çalışmaları devam etmektedir.
+- Diğer Linux Sistemler: Henüz test edilmemiştir.
 
 # Sorumluluk Reddi Beyanı
 Bu araç yalnızca eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır. Aracın kullanımından kaynaklanabilecek her türlü durumda sorumluluk tarafınıza aittir.
