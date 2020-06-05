@@ -50,6 +50,6 @@ DNSdegistirici aracı birçok Linux sistemine uygun olmakla beraber bazı duruml
 Bu araç yalnızca eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır. Aracın kullanımından kaynaklanabilecek her türlü durumda sorumluluk tarafınıza aittir.
 
 # Lisans (License)
-Bu proje MIT Lisansı altında yayınlanmıştır - detayları görüntülemek için [LICENSE.md](LICENSE.md)
+Bu proje MIT Lisansı altında yayınlanmıştır - detayları görüntülemek için [LICENSE](LICENSE)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
