@@ -127,9 +127,9 @@ if [ -d "$KURULUM_DIZINI" ]
 	echo ""
 	echo -e $KALIN $BLINK $ONAY"[✔] KURULUM TAMAMLANDI [✔] "$NORMAL
 	echo ""
-	echo -e $ONAY "[✔] ==> == == == == == == == == == == == == == == == == == == == == <== [✔] "$NORMAL
-	echo -e $ONAY "[✔] =>      sudo dnsdegistir yazarak aracı çalıştırabilirsiniz      <== [✔] "$NORMAL
-	echo -e $ONAY "[✔] ==> == == == == == == == == == == == == == == == == == == == == <== [✔] "$NORMAL
+	echo -e $ONAY "[✔] ==> == == == == == == == == == == == == == == == == == == <== [✔] "$NORMAL
+	echo -e $ONAY "[✔] =>   sudo dnsdegistir yazarak aracı çalıştırabilirsiniz   <== [✔] "$NORMAL
+	echo -e $ONAY "[✔] ==> == == == == == == == == == == == == == == == == == == <== [✔] "$NORMAL
 	echo ""
 else
 	echo -e $KALIN $DIKKAT"[✘!] KURULUM BAŞARISIZ OLDU [!✘]"$NORMAL
