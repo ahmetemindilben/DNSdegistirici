@@ -180,11 +180,11 @@ def kullanimKosullari():
 	ekranTemizle()
 	print(renk.kalin + renk.dikkat + "\n[!]~ KULLANIM KOŞULLARI ~[!]" + renk.normal)
 	print("""
-   "Basit DNS Değiştirici" veya "dnsdegistirici" yalznıca sızma testlerinde ve etik hackerlık uygulamalarında eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır.
-   \nAraç linux sistemindeki /etc/resolv.conf dosyasını düzenleyerek DNS adreslerini değiştirir. DNS adreslerini otomatik değiştirmek için Level3, OpenDNS, Google DNS ve Verisign gibi internet üzerinden bulunabilen ücretsiz DNS adresleri kullanılmaktadır.
-   \nAracın kullanımından oluşabilecek her türlü durumda sorumluluk tarafınıza ait olduğu gibi ahmetemindilben.com.tr herhangi bir sorumluluk almayacaktır.
-   \nBu aracı kullanarak, sistemlerinizde barındırarak veya hizmetlerinden yararlanarak bu koşulları kabul ettiğiniz gibi bu aracı yasal sınırlar çerçevesinde kullanacağınızıda kabul etmiş sayılırsınız.
-   \nAraç açık kaynaklı ve MIT lisanslıdır. Aracın kaynak kodlarına erişebilir, aracı geliştirebilir ve web siteme atıf yaparak yayınlayabilirsiniz.
+ "Basit DNS Değiştirici" veya "dnsdegistirici" yalznıca sızma testlerinde ve etik hackerlık uygulamalarında eğitim amacıyla yasal sınırlar çerçevesinde kullanılmak için yazılmıştır.
+\nAraç linux sistemindeki /etc/resolv.conf dosyasını düzenleyerek DNS adreslerini değiştirir. DNS adreslerini otomatik değiştirmek için Level3, OpenDNS, Google DNS ve Verisign gibi internet üzerinden bulunabilen ücretsiz DNS adresleri kullanılmaktadır.
+\nAracın kullanımından oluşabilecek her türlü durumda sorumluluk tarafınıza ait olduğu gibi ahmetemindilben.com.tr herhangi bir sorumluluk almayacaktır.
+\nBu aracı kullanarak, sistemlerinizde barındırarak veya hizmetlerinden yararlanarak bu koşulları kabul ettiğiniz gibi bu aracı yasal sınırlar çerçevesinde kullanacağınızıda kabul etmiş sayılırsınız.
+\nAraç açık kaynaklı ve MIT lisanslıdır. Aracın kaynak kodlarına erişebilir, aracı geliştirebilir ve web siteme atıf yaparak yayınlayabilirsiniz.
 	""")
 	baskaIslem()
 
