@@ -166,10 +166,10 @@ def yardim():
 	ekranTemizle()
 	print(renk.kalin + renk.onaylama + "\n[?]~ YARDIM - ARAÇ KULLANIMI ~[?]" + renk.normal)
 	print("""
-   "Basit DNS Değiştirici" Kali Linux başta olmak üzere Linux sistemlerde DNS değiştirme işleminde yaşanan hataların önüne geçen ve bu işlemi kolaylaştıran açık kaynaklı, kullanımı kolay bir araçtır. 
-   \nAraç DNS adreslerini değiştirebilmek için /etc/resolv.conf dosyası üzerinde kalıcı düzenleme yapar. Böylelikle bilgisayarınızı yeniden başlattığınızda tekrardan DNS adreslerini değiştirmeniz gerekmez.
-   \nBasit DNS Değiştirici aracında DNS adreslerinizi değiştirebilmeniz için iki yöntem bulunmaktadır;""")
-  	print(renk.duzmavi + "\nRastgele DNS Adresleri Gir" + renk.normal + " yöntemi ile aracın kodu içerisinde bulunan ücretsiz DNS adreslerinden rastgele 3 tanesini bilgisayarınızda kullanabilirsiniz.")
+"Basit DNS Değiştirici" Kali Linux başta olmak üzere Linux sistemlerde DNS değiştirme işleminde yaşanan hataların önüne geçen ve bu işlemi kolaylaştıran açık kaynaklı, kullanımı kolay bir araçtır. 
+\nAraç DNS adreslerini değiştirebilmek için /etc/resolv.conf dosyası üzerinde kalıcı düzenleme yapar. Böylelikle bilgisayarınızı yeniden başlattığınızda tekrardan DNS adreslerini değiştirmeniz gerekmez.
+\nBasit DNS Değiştirici aracında DNS adreslerinizi değiştirebilmeniz için iki yöntem bulunmaktadır;""")
+	print(renk.duzmavi + "\nRastgele DNS Adresleri Gir" + renk.normal + " yöntemi ile aracın kodu içerisinde bulunan ücretsiz DNS adreslerinden rastgele 3 tanesini bilgisayarınızda kullanabilirsiniz.")
      	print(renk.duzmavi + "\nManuel DNS Adresleri Gir" + renk.normal + " yöntemi ile kendi istediğiniz 3 DNS adresini kalıcı olarak girebilirsiniz.")
      	print("\nBu araç açık kaynaklı olmakla beraber geliştirilebilir ve web siteme atıf yapılarak yayınlanabilir.")
 	print("\nAracın kullanımına dair daha fazla bilgi için man 'dnsdegistir' komutunu kullanabilirsiniz.")
