@@ -194,5 +194,5 @@ if __name__ == "__main__":
     try:
     	giris()
     except KeyboardInterrupt:
-	print(renk.uyari + renk.kalin + " Program kapatılıyor\n" + renk.normal)
-        time.sleep(0.50)
+	    print(renk.uyari + renk.kalin + " Program kapatılıyor\n" + renk.normal)
+	    time.sleep(0.50)
